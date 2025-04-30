@@ -281,7 +281,7 @@ export const projects = [
       "Styled components",
     ],
     category: "web app",
-    github: "https://github.com/abhikumar0670",
+    github: "https://github.com/abhikumar0670/Portfolio",
     webapp: "https://portfolio-abhi-pi.vercel.app/",
   },
   {
